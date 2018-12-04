@@ -8,4 +8,4 @@ This repository contains the source code and output image for CSC418-Computer Gr
   
 
 # Output.ppm
-![](images/Output.ppm)
+![](images/Output.jpg)
